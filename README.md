@@ -40,14 +40,15 @@ baseline — SARIMA holdout MAPE **3.7%** vs 10.0% baseline.
 
 **[heart-risk-dashboard](https://github.com/Aditya6311/heart-risk-dashboard)** —
 Streamlit dashboard for exploring heart disease risk patterns,
-framed for a clinic-team audience. `Streamlit · pandas · matplotlib`
+framed for a clinic-team audience. **Live demo:**
+https://heart-risk-dashboard-k3w7aktcqwcg7njxzayde6.streamlit.app/ `Streamlit · pandas · matplotlib`
 
 ## Background
 
 - **B.S. Computer Science**, Minot State University (in progress)
 - **Coursework:** Data Structures & Algorithms, Database Management,
   Statistics, UNIX/Linux Systems, Web Application Development
-- **Experience:** Student Manager (second-in-charge), Sodexo at
+- **Experience:** Student Manager, Sodexo at
   Minot State — team scheduling, training, and operations
 
 ## Connect
